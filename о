@@ -1,0 +1,1 @@
+pip install gensim pymorphy2 seaborn pyLDAvis
